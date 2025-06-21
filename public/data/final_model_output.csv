@@ -1,0 +1,51 @@
+user_id,recommended_movie_id,recommended_movie_title,genre,reason,predicted_rating,year
+user_001,movie_101,The Matrix Reloaded,Sci-Fi,Based on high ratings for similar genres,4.5,2003
+user_001,movie_102,Inception,Sci-Fi,Users with similar preferences loved this,4.8,2010
+user_001,movie_103,The Dark Knight,Action,Top-rated in your favorite genre,4.9,2008
+user_001,movie_104,Interstellar,Sci-Fi,Based on your love for complex narratives,4.7,2014
+user_001,movie_105,Blade Runner 2049,Sci-Fi,Perfect match for your sci-fi preferences,4.6,2017
+user_002,movie_201,The Notebook,Romance,Perfect match for your romantic preferences,4.3,2004
+user_002,movie_202,Titanic,Romance,Classic romance highly rated by similar users,4.6,1997
+user_002,movie_203,Pride and Prejudice,Romance,Based on your love for period romances,4.4,2005
+user_002,movie_204,La La Land,Romance,Modern romance with great reviews,4.2,2016
+user_002,movie_205,The Fault in Our Stars,Romance,Emotional story similar to your preferences,4.1,2014
+user_003,movie_301,The Hangover,Comedy,Comedy gold for users like you,4.2,2009
+user_003,movie_302,Superbad,Comedy,Trending among your demographic,4.1,2007
+user_003,movie_303,Anchorman,Comedy,Classic comedy highly rated by similar users,4.3,2004
+user_003,movie_304,Step Brothers,Comedy,Perfect match for your comedy style,4.0,2008
+user_003,movie_305,Pineapple Express,Comedy,Action-comedy blend you might enjoy,3.9,2008
+user_004,movie_401,The Shawshank Redemption,Drama,Highest rated drama of all time,4.9,1994
+user_004,movie_402,Forrest Gump,Drama,Heartwarming story with universal appeal,4.8,1994
+user_004,movie_403,The Godfather,Drama,Classic drama masterpiece,4.9,1972
+user_004,movie_404,Schindler's List,Drama,Powerful historical drama,4.8,1993
+user_004,movie_405,12 Angry Men,Drama,Courtroom drama with excellent character development,4.7,1957
+user_005,movie_501,Avengers: Endgame,Action,Epic conclusion to superhero saga,4.6,2019
+user_005,movie_502,Mad Max: Fury Road,Action,High-octane action with great reviews,4.5,2015
+user_005,movie_503,John Wick,Action,Stylish action with compelling story,4.4,2014
+user_005,movie_504,Mission: Impossible - Fallout,Action,Best in the MI franchise,4.3,2018
+user_005,movie_505,Casino Royale,Action,Modern Bond classic,4.4,2006
+user_006,movie_601,The Conjuring,Horror,Masterful horror with great scares,4.2,2013
+user_006,movie_602,Hereditary,Horror,Psychological horror that critics love,4.1,2018
+user_006,movie_603,Get Out,Horror,Social thriller with horror elements,4.3,2017
+user_006,movie_604,A Quiet Place,Horror,Innovative horror concept,4.2,2018
+user_006,movie_605,The Babadook,Horror,Psychological horror with deeper meaning,4.0,2014
+user_007,movie_701,Toy Story 4,Animation,Heartwarming conclusion to beloved series,4.4,2019
+user_007,movie_702,Spider-Man: Into the Spider-Verse,Animation,Revolutionary animation and storytelling,4.6,2018
+user_007,movie_703,Coco,Animation,Beautiful story about family and culture,4.5,2017
+user_007,movie_704,Inside Out,Animation,Clever concept with emotional depth,4.4,2015
+user_007,movie_705,Zootopia,Animation,Smart social commentary in animated form,4.3,2016
+user_008,movie_801,Free Solo,Documentary,Breathtaking climbing documentary,4.3,2018
+user_008,movie_802,Won't You Be My Neighbor?,Documentary,Heartwarming look at Mr. Rogers,4.4,2018
+user_008,movie_803,The Act of Killing,Documentary,Powerful and disturbing historical doc,4.2,2012
+user_008,movie_804,March of the Penguins,Documentary,Beautiful nature documentary,4.1,2005
+user_008,movie_805,Bowling for Columbine,Documentary,Provocative documentary about gun violence,4.0,2002
+user_009,movie_901,The Lord of the Rings: The Fellowship of the Ring,Fantasy,Epic fantasy adventure,4.8,2001
+user_009,movie_902,Harry Potter and the Sorcerer's Stone,Fantasy,Magical world that captivated audiences,4.3,2001
+user_009,movie_903,Pan's Labyrinth,Fantasy,Dark fantasy with beautiful imagery,4.5,2006
+user_009,movie_904,The Shape of Water,Fantasy,Unique fantasy romance,4.2,2017
+user_009,movie_905,Big Fish,Fantasy,Whimsical tale about storytelling,4.1,2003
+user_010,movie_1001,Zodiac,Mystery,Gripping true crime mystery,4.4,2007
+user_010,movie_1002,Gone Girl,Mystery,Psychological thriller with twists,4.3,2014
+user_010,movie_1003,The Prestige,Mystery,Mind-bending mystery about magicians,4.5,2006
+user_010,movie_1004,Shutter Island,Mystery,Psychological mystery with great atmosphere,4.2,2010
+user_010,movie_1005,Prisoners,Mystery,Intense thriller about missing children,4.3,2013
